@@ -24,10 +24,10 @@ The programs can compress and decompress text consisting of 128 ASCII characters
 ***The algorithm serializes the encoded text as a binary/decimal sequence and the corresponding Huffman binary tree in order to be able to decode back the text in the future.***
 
 Here is an example:
-Huffman codes for each character in the given text:
-![frequencies](frequencies.PNG)
+Frequency of each character in the given text:
+![frequencies](frequencies.png)
 
-Text encoded in a binary format, decoded text and compression ratio:
-![huffman](huffman.PNG)
+Huffman codes and encoded text in a binary format, decoded text and compression ratio:
+![huffman](huffman.png)
 
 As can be seen, string is compressed to about 6% of the original string which was given as input.
