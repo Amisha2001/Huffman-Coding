@@ -25,7 +25,7 @@ The programs can compress and decompress text consisting of 128 ASCII characters
 
 Here is an example:
 Frequency of each character in the given text:
-[frequencies](https://github.com/Amisha2001/Data-Compression/blob/main/frequencies.jpg)
+[frequencies](frequencies.jpg)
 
 Huffman codes and encoded text in a binary format, decoded text and compression ratio:
 ![huffman](huffman.jpg)
