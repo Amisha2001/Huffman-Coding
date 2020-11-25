@@ -1,4 +1,4 @@
-# Data-Compression
+# Huffman-Coding
 A C++ compression and decompression program based on Huffman Coding.
 
 ## Introduction
@@ -25,9 +25,9 @@ The programs can compress and decompress text consisting of 128 ASCII characters
 
 Here is an example:
 Huffman codes for each character in the given text:
-![codes](codes.PNG)
+![frequencies](frequencies.PNG)
 
 Text encoded in a binary format, decoded text and compression ratio:
-![static huffman](static-huffman.PNG)
+![huffman](huffman.PNG)
 
 As can be seen, string is compressed to about 6% of the original string which was given as input.
