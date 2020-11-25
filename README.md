@@ -28,6 +28,6 @@ Frequency of each character in the given text:
 ![frequencies](frequencies.jpg)
 
 Huffman codes and encoded text in a binary format, decoded text and compression ratio:
-![huffman](huffman.jpg)
+![huffmanCodes](huffmanCodes.jpg)
 
 As can be seen, string is compressed to about 6% of the original string which was given as input.
